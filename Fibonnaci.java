@@ -20,6 +20,7 @@ public class Fibonnaci {
         // TODO code application logic here
         Scanner show = new Scanner (System.in);
         System.out.print("Masukkan Jumlah Deret Fibonacci : ");
+        System.out.print("Agni Oktaviani: ");
         int n = show.nextInt();
         long fib[] = new long[n];
         
